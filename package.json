@@ -1,0 +1,14 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "A simple clock project using HTML, CSS, and JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server ."
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["clock", "javascript", "html", "css"],
+  "author": "nikkhilmali",
+  "license": "MIT"
+}
